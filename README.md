@@ -1,4 +1,5 @@
  Project Overview
+ 
 This is a fully functional, Amazon-inspired e-commerce website built with HTML, CSS, and JavaScript. The website features a modern, responsive design with a complete shopping experience including product browsing, cart management, wishlists, order tracking, and user authentication.
 
  Key Features
